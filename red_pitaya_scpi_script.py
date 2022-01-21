@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 11 13:34:05 2022
-
-@author: jweldon
-"""
 
 """SCPI access to Red Pitaya."""
 
